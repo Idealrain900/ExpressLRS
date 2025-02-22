@@ -37,6 +37,7 @@ We have both a [Discord Server](https://discord.gg/expresslrs) and [Facebook Gro
 ## Features
 
 ExpressLRS has the following features:
+-JAA NA SAALE 
 
 - Up to 1000 Hz Packet Rate
 - Telemetry (Betaflight Lua Compatibility)
